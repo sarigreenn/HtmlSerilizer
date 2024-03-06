@@ -2,7 +2,7 @@ Project: Html-to-Object Converter with CSS Selector Search Overview This project
 
 Installation and Execution Below are the steps for installation and running the tool:
 
-Download the Code: Clone the source code from the repository using git clone https://github.com/sarigreenn/Practicod2. Install Dependencies: Ensure you have all the required dependencies installed by running dotnet restore. Run the Tool: Execute the tool using the command dotnet run. Using the Tool: Utilize the tool by providing the URL address of a website and performing the conversion of HTML to a tree structure in C#. Usage The tool is intended for use by developers and software experts to automatically and efficiently analyze and process website content. It offers flexible options for searching and navigating within the tree represented by CSS selectors.
+Download the Code: Clone the source code from the repository using git clone https://github.com/sarigreenn/HtmlSerilizer. Install Dependencies: Ensure you have all the required dependencies installed by running dotnet restore. Run the Tool: Execute the tool using the command dotnet run. Using the Tool: Utilize the tool by providing the URL address of a website and performing the conversion of HTML to a tree structure in C#. Usage The tool is intended for use by developers and software experts to automatically and efficiently analyze and process website content. It offers flexible options for searching and navigating within the tree represented by CSS selectors.
 
 Contribution Contributions and suggestions for improvement to the project are welcome. You can open Issues on GitHub or submit Pull Requests with desired changes.
 
